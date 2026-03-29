@@ -1,4 +1,4 @@
-# 📱 Social Media Addiction Prediction (Machine Learning)
+# 📱 Social Media Addiction Prediction
 
 ## 📌 Project Overview
 
